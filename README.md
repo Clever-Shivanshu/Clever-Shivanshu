@@ -23,7 +23,7 @@
 ![Npm](https://img.shields.io/badge/-npm-CB3837?style=for-the-badge&logo=npm)
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=ffffff)
 <br>
-
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Clever-Shivanshu&show_icons=true&locale=en" alt="CleverShivanshu" /></p>
 
 ### 🤝🏻 &nbsp;Connect with Me
 
