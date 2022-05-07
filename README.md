@@ -33,4 +33,4 @@
   
 <a href="https://twitter.com/CleverShivanshu"><img src="https://img.shields.io/badge/-@CleverShivanshu-1877F2?style=flat&logo=Twitter&logoColor=white"/></a>
 </p>
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vivek9patel&" alt="vivek9patel" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=clever-shivanshul&" alt="cs" /></p>
