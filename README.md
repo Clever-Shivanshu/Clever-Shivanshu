@@ -30,7 +30,7 @@
 <p>
 
 <a href="mailto:bhashkarsushma83@gmail.com"><img src="https://img.shields.io/badge/-bhashkarsushma83@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
- https://img.shields.io/twitter/url?color=blue&label=clever-shivanshu.vercel.app&logo=google&logoColor=red&style=for-the-badge&url=https%3A%2F%2Fclever-shivanshu.vercel.app%2F
+
 <a href="https://twitter.com/CleverShivanshu"><img src="https://img.shields.io/badge/-@CleverShivanshu-1877F2?style=flat&logo=Twitter&logoColor=white"/></a>
 </p>
 
