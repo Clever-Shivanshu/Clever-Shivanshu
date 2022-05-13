@@ -35,3 +35,5 @@
 </p>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Clever-Shivanshu&theme=tokyonight)](https://git.io/streak-stats)
+
+<a href="https://app.daily.dev/CleverShivanshu"><img src="https://api.daily.dev/devcards/c34029fac25b4a8397456ccdea627e1e.png?r=khj" width="400" alt="Clever Shivanshu's Dev Card"/></a>
