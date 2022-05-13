@@ -35,11 +35,10 @@
 
 <a href="https://twitter.com/CleverShivanshu"><img src="https://img.shields.io/badge/-@CleverShivanshu-1877F2?style=flat&logo=Twitter&logoColor=white"/></a>
 </p>
-> 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=0shuvo0&show_icons=true&locale=en&layout=compact" alt="0shuvo0" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=0shuvo0&show_icons=true&locale=en" alt="0shuvo0" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Clever-Shivanshu&show_icons=true&locale=en&layout=compact" alt="0shuvo0" /></p>
+
 
 
 
