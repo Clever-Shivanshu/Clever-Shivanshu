@@ -26,7 +26,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Clever-Shivanshu&show_icons=true&locale=en" alt="CleverShivanshu" /></p>
 
 ### 🤝🏻 &nbsp;Connect with Me
-https://img.shields.io/youtube/channel/subscribers/UCOOGi6wBHDcW29qbYf9vPgg?style=social
+<a href="https://www.youtube.com/channel/UCOOGi6wBHDcW29qbYf9vPgg"><img src="https://img.shields.io/youtube/channel/subscribers/UCOOGi6wBHDcW29qbYf9vPgg?style=social"/></a>
 <p>
 
 <a href="mailto:bhashkarsushma83@gmail.com"><img src="https://img.shields.io/badge/-bhashkarsushma83@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
