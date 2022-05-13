@@ -25,6 +25,14 @@
 <br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Clever-Shivanshu&show_icons=true&locale=en" alt="CleverShivanshu" /></p>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Clever-Shivanshu&show_icons=true&locale=en&layout=compact" alt="0shuvo0" /></p>
+
+
+
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Clever-Shivanshu&theme=tokyonight)](https://git.io/streak-stats)
+
+<a href="https://app.daily.dev/CleverShivanshu"><img src="https://api.daily.dev/devcards/c34029fac25b4a8397456ccdea627e1e.png?r=khj" width="400" alt="Clever Shivanshu's Dev Card"/></a>
 ### 🤝🏻 &nbsp;Connect with Me
 <a href="https://www.youtube.com/channel/UCOOGi6wBHDcW29qbYf9vPgg"><img src="https://img.shields.io/youtube/channel/subscribers/UCOOGi6wBHDcW29qbYf9vPgg?style=social"/></a>
 <img src="https://img.shields.io/github/followers/Clever-Shivanshu?style=social"/>
@@ -37,11 +45,3 @@
 </p>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Clever-Shivanshu&show_icons=true&locale=en&layout=compact" alt="0shuvo0" /></p>
-
-
-
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Clever-Shivanshu&theme=tokyonight)](https://git.io/streak-stats)
-
-<a href="https://app.daily.dev/CleverShivanshu"><img src="https://api.daily.dev/devcards/c34029fac25b4a8397456ccdea627e1e.png?r=khj" width="400" alt="Clever Shivanshu's Dev Card"/></a>
