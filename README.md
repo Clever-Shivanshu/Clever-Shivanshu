@@ -44,4 +44,4 @@
 <a href="https://twitter.com/CleverShivanshu"><img src="https://img.shields.io/badge/-@CleverShivanshu-1877F2?style=flat&logo=Twitter&logoColor=white"/></a>
 </p>
 
-
+:technologist:
