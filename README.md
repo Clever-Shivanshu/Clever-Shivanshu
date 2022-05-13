@@ -27,6 +27,7 @@
 
 ### 🤝🏻 &nbsp;Connect with Me
 <a href="https://www.youtube.com/channel/UCOOGi6wBHDcW29qbYf9vPgg"><img src="https://img.shields.io/youtube/channel/subscribers/UCOOGi6wBHDcW29qbYf9vPgg?style=social"/></a>
+<img src="https://img.shields.io/github/followers/Clever-Shivanshu?style=social"/>
 <p>
 
 <a href="mailto:bhashkarsushma83@gmail.com"><img src="https://img.shields.io/badge/-bhashkarsushma83@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
