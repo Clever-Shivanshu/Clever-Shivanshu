@@ -48,4 +48,11 @@
 
 :technologist:
 
-### 🤝🏻 &nbsp;5 C# Tips that you MUST know NOW!!! ⚡
+### &nbsp;5 Tips for Better Coding that you MUST know NOW!!! ⚡
+<p>
+1. Avoid Global Code
+2. Use Meaningful Names
+3. Use a Coding Standard
+4. Use Meaningful Structures  
+5. Refactor  
+</p>
