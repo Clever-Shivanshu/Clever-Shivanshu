@@ -28,7 +28,7 @@
 <br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Clever-Shivanshu&show_icons=true&locale=en" alt="CleverShivanshu" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Clever-Shivanshu&show_icons=true&locale=en&layout=compact" alt="0shuvo0" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Clever-Shivanshu&show_icons=true&locale=en&layout=compact" alt="cs" /></p>
 
 
 
@@ -47,3 +47,5 @@
 </p>
 
 :technologist:
+
+### 🤝🏻 &nbsp;5 C# Tips that you MUST know NOW!!! ⚡
