@@ -26,10 +26,7 @@
 ![Npm](https://img.shields.io/badge/-npm-CB3837?style=for-the-badge&logo=npm)
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=ffffff)
 <br>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Clever-Shivanshu&show_icons=true&locale=en" alt="CleverShivanshu" /></p>
-
-
-
+<a href="https://app.daily.dev/CleverShivanshu"><img src="https://api.daily.dev/devcards/c34029fac25b4a8397456ccdea627e1e.png?r=1i3" width="400" alt="Clever Shivanshu's Dev Card"/></a>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Clever-Shivanshu&theme=tokyonight)](https://git.io/streak-stats)
 <a href="https://app.daily.dev/CleverShivanshu"><img src="https://api.daily.dev/devcards/c34029fac25b4a8397456ccdea627e1e.png?r=kmx" width="400" alt="Clever Shivanshu's Dev Card"/></a>
