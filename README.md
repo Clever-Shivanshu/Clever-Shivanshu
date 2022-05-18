@@ -26,6 +26,7 @@
 ![Npm](https://img.shields.io/badge/-npm-CB3837?style=for-the-badge&logo=npm)
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=ffffff)
 <br>
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=vivek9patel&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Clever-Shivanshu&theme=tokyonight)](https://git.io/streak-stats)
 <a href="https://app.daily.dev/CleverShivanshu"><img src="https://api.daily.dev/devcards/c34029fac25b4a8397456ccdea627e1e.png?r=kmx" width="400" alt="Clever Shivanshu's Dev Card"/></a>
 ### 🤝🏻 &nbsp;Connect with Me
