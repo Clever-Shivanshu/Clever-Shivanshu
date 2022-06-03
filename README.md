@@ -1,5 +1,6 @@
 <h1 align="center">🅷🅸 👋, 🅸'🅼 🅲🅻🅴🆅🅴🆁 🆂🅷🅸🆅🅰🅽🆂🅷🆄</h1>
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=Hi%F0%9F%91%8B%2C+welcome+to+my+Profile!!;I+am+a+coder+from+India!;I+live+in+Ghaziabad%2C+UP%2C+India)](https://git.io/typing-svg)
+<img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=Hi%F0%9F%91%8B%2C+welcome+to+my+Profile!!;I+am+a+coder+from+India!;I+live+in+Ghaziabad%2C+UP%2C+India"/>
 
 - 🔭 I’m currently working on a 2D Game in unity.
 - 🌱 I’m currently learning Unity, C#.
