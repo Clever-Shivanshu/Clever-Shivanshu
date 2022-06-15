@@ -1,7 +1,7 @@
 <h1 align="center">🅷🅸 👋, 🅸'🅼 🅲🅻🅴🆅🅴🆁 🆂🅷🅸🆅🅰🅽🆂🅷🆄</h1>
 <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=welcome+to+my+Profile!!;I+am+a+coder+from+India!;I+live+in+Ghaziabad%2C+UP%2C+India"/>
 
-- 🔭 I’m currently working on a 2D Game in unity.
+- 🔭 I’m currently working on a Game in unity.
 - 🌱 I’m currently learning Unity, C#.
 - 💬 Ask me about C#, Html, CSS, Javascript, React.js.
 - 📫 How to reach me: bhashkarsushma83@gmail.com
