@@ -28,7 +28,7 @@
 <br>
 <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Clever-Shivanshu&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Clever-Shivanshu&theme=tokyonight)](https://git.io/streak-stats)
-<a href="https://app.daily.dev/CleverShivanshu"><img src="https://api.daily.dev/devcards/c34029fac25b4a8397456ccdea627e1e.png?r=kmx" width="400" alt="Clever Shivanshu's Dev Card"/></a>
+
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Clever-Shivanshu&bg_color=000000&color=ffffff&line=ff00ff&point=ec8fff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 ### 🤝🏻 &nbsp;Connect with Me
 <a href="https://www.youtube.com/channel/UCOOGi6wBHDcW29qbYf9vPgg"><img src="https://img.shields.io/youtube/channel/subscribers/UCOOGi6wBHDcW29qbYf9vPgg?style=social"/></a>
