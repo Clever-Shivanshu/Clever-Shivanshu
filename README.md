@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning Unity, C#.
 - 💬 Ask me about C#, Html, CSS, Javascript, React.js.
 - 📫 How to reach me: bhashkarsushma83@gmail.com
-- 🌐 Visit my website: https://clever-shivanshu.vercel.app/
+- 🌐 Visit my website: https://shivanshu.vercel.app/
 
 ### 🛠 &nbsp;Languages and Tools That I use!!
 
