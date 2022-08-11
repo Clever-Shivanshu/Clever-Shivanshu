@@ -1,4 +1,4 @@
-<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/nXYVWFQWAAELT0SOvP" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/code-nXYVWFQWAAELT0SOvP">via GIPHY</a></p>
+
 <h1 align="center">🅷🅸 👋, 🅸'🅼 🅲🅻🅴🆅🅴🆁 🆂🅷🅸🆅🅰🅽🆂🅷🆄</h1>
 <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=welcome+to+my+Profile!!;I+am+a+coder+from+India!;I+live+in+Ghaziabad%2C+UP%2C+India"/>
 
