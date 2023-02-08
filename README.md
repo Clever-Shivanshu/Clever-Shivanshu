@@ -1,17 +1,10 @@
 
 <h1 align="center">🅷🅸 👋, 🅸'🅼 🆂🅷🅸🆅🅰🅽🆂🅷🆄</h1>
 <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=welcome+to+my+Profile!!;I+am+a+coder+from+India!;I+live+in+Ghaziabad%2C+UP%2C+India"/>
-- 🏀 Love to play Basketball.
 
-- 🔭 I’m currently working on a Game in unity.
 
-- 🌱 I’m currently learning Unity, C#.
-
-- 💬 Ask me about C#, Html, CSS, Javascript, React.js.
-
-- 📫 How to reach me: bhashkarsushma83@gmail.com
-
-- 🌐 Visit my website: https://shivanshu.vercel.app/
+Hi there! My name is Shivanshu Bhashkar. I am a 14-year-old Web & Game Developer based in Ghaziabad, Uttar Pradesh, India and My date of birth is 27/01/2009. I have always been passionate about coding🧑🏻‍💻. In my free time, I enjoy coding, play Basketball🏀 and am always looking for new opportunities to learn and grow. Thank you for stopping by!.
+Reach me out at bhashkarsushma83@gmail.com And Visit my website https://shivanshu.vercel.app/
 
 ### 🛠 &nbsp;Languages and Tools That I use!!
 
