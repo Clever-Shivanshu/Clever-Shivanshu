@@ -29,7 +29,6 @@ Reach me out at bhashkarsushma83@gmail.com And Visit my website https://shivansh
 <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Clever-Shivanshu&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Clever-Shivanshu&theme=tokyonight)](https://git.io/streak-stats)
 
-<a href="https://www.youtube.com/channel/UCOOGi6wBHDcW29qbYf9vPgg"><img src="https://img.shields.io/youtube/channel/subscribers/UCOOGi6wBHDcW29qbYf9vPgg?style=social"/></a>
 <img src="https://img.shields.io/github/followers/Clever-Shivanshu?style=social"/>
 <p>
   <a href="https://shivanshu.vercel.app/"><img src="https://img.shields.io/badge/Visit-My%20website-purple"/></a>
