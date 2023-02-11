@@ -33,7 +33,7 @@ Reach me out at bhashkarsushma83@gmail.com And Visit my website https://shivansh
 <p>
   <a href="https://shivanshu.vercel.app/"><img src="https://img.shields.io/badge/Visit-My%20website-purple"/></a>
 
-<a href="mailto:bhashkarsushma83@gmail.com"><img src="https://img.shields.io/badge/-bhashkarsushma83@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="mailto:shivanshulovescoding@gmail.com"><img src="https://img.shields.io/badge/-shivanshulovescoding@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 
 </p>
 
