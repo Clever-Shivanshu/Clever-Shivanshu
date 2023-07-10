@@ -1,14 +1,15 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Pacifico&pause=1000&color=5924ED&background=EFEBFA&center=true&vCenter=true&width=435&lines=%F0%9F%8C%9F+14-year-old+Web+Wizard;%26+Fashion+Maverick+%F0%9F%8C%90%F0%9F%9A%97%E2%9C%A8;Founder+of+SnapSwiftly%3A+Creating+;seamless+e-commerce+websites+%26+apps;Get+2+months+FREE+;%26+lightning-fast+service+%E2%9A%A1;Check+out+SupraXpression+for+;car-themed+fashion+finds+%F0%9F%9A%80%F0%9F%91%95;Subscribe+to+%22The+Empowerment+Engine%22+;on+YouTube+for+;+motivation+that+drives+success+%F0%9F%94%A5%F0%9F%92%AA;Join+my+digital+revolution+;%26+style+your+ride!+%F0%9F%8C%9F%F0%9F%94%A5)](https://git.io/typing-svg)
 
-<h1> 🌟 Welcome, dear visitor!<h1/> Prepare to be amazed as I introduce myself—Shivanshu Bhashkar, the 14-year-old wizard of web development and video editing. 🎩💻 With boundless creativity and a love for all things digital, I'm here to turn your dreams into reality.
+<h1> 🌟 Welcome, dear visitor!<h1/> 
+  <h3> Prepare to be amazed as I introduce myself—Shivanshu Bhashkar, the 14-year-old wizard of web development and video editing. 🎩💻 With boundless creativity and a love for all things digital, I'm here to turn your dreams into reality. </h3>
 
-As a full-stack web developer and video editing maestro, I weave digital wonders that captivate and inspire. Whether it's crafting a sleek e-commerce website or adding that magical touch to your videos, I've got you covered. 🌟✨
+<h3> As a full-stack web developer and video editing maestro, I weave digital wonders that captivate and inspire. Whether it's crafting a sleek e-commerce website or adding that magical touch to your videos, I've got you covered. 🌟✨ </h3>
 
-But wait, there's more! 🎉 I present to you my visionary enterprises: SnapSwiftly and Supraxpession. At SnapSwiftly, we'll whisk you away into the world of seamless e-commerce with our lightning-fast websites and apps. Oh, did I mention the two-month free trial? It's our gift to you! And at Supraxpession, we're all about fashion that drives your passion for cars. Get ready to wear your love for wheels on your sleeve (literally)! 🚗🔥
+<h3>But wait, there's more! 🎉 I present to you my visionary enterprises: SnapSwiftly and Supraxpession. At SnapSwiftly, we'll whisk you away into the world of seamless e-commerce with our lightning-fast websites and apps. Oh, did I mention the two-month free trial? It's our gift to you! And at Supraxpession, we're all about fashion that drives your passion for cars. Get ready to wear your love for wheels on your sleeve (literally)! 🚗🔥 </h3>
 
-Join me on "The Empowerment Engine," my captivating YouTube channel, where I'll motivate and inspire you to unlock your true potential. 🚀 Together, we'll conquer challenges and achieve greatness.
+<h3>Join me on "The Empowerment Engine," my captivating YouTube channel, where I'll motivate and inspire you to unlock your true potential. 🚀 Together, we'll conquer challenges and achieve greatness. </h3>
 
-So, dear visitor, become a customer and embark on this exhilarating journey with me. Let's transform your digital dreams into a stunning reality that leaves a lasting impact. Are you ready? 💫💪
+<h3> So, dear visitor, become a customer and embark on this exhilarating journey with me. Let's transform your digital dreams into a stunning reality that leaves a lasting impact. Are you ready? 💫💪 </h3>
 
 Reach me out at shivanshulovescoding@gmail.com And Visit my website https://shivanshu.vercel.app/
 
