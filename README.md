@@ -1,9 +1,13 @@
+🌟 Welcome, dear visitor! Prepare to be amazed as I introduce myself—Shivanshu Bhashkar, the 14-year-old wizard of web development and video editing. 🎩💻 With boundless creativity and a love for all things digital, I'm here to turn your dreams into reality.
 
+As a full-stack web developer and video editing maestro, I weave digital wonders that captivate and inspire. Whether it's crafting a sleek e-commerce website or adding that magical touch to your videos, I've got you covered. 🌟✨
 
-<img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=welcome+to+my+Profile!!;I+am+a+coder+from+India!;I+live+in+Ghaziabad%2C+UP%2C+India"/>
+But wait, there's more! 🎉 I present to you my visionary enterprises: SnapSwiftly and Supraxpession. At SnapSwiftly, we'll whisk you away into the world of seamless e-commerce with our lightning-fast websites and apps. Oh, did I mention the two-month free trial? It's our gift to you! And at Supraxpession, we're all about fashion that drives your passion for cars. Get ready to wear your love for wheels on your sleeve (literally)! 🚗🔥
 
+Join me on "The Empowerment Engine," my captivating YouTube channel, where I'll motivate and inspire you to unlock your true potential. 🚀 Together, we'll conquer challenges and achieve greatness.
 
-Hi there! My name is Shivanshu Bhashkar. I am a 14-year-old Web & Game Developer based in Ghaziabad, Uttar Pradesh, India and My date of birth is 27/01/2009. I have always been passionate about coding🧑🏻‍💻. In my free time, I enjoy coding, play Basketball🏀 and am always looking for new opportunities to learn and grow. Thank you for stopping by!.
+So, dear visitor, become a customer and embark on this exhilarating journey with me. Let's transform your digital dreams into a stunning reality that leaves a lasting impact. Are you ready? 💫💪
+
 Reach me out at shivanshulovescoding@gmail.com And Visit my website https://shivanshu.vercel.app/
 
 ### 🛠 &nbsp;Languages and Tools That I use!!
