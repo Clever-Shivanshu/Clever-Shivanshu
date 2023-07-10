@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Pacifico&pause=1000&color=5924ED&background=EFEBFA&center=true&vCenter=true&width=435&lines=%F0%9F%8C%9F+14-year-old+Web+Wizard;%26+Fashion+Maverick+%F0%9F%8C%90%F0%9F%9A%97%E2%9C%A8;Founder+of+SnapSwiftly%3A+Creating+;seamless+e-commerce+websites+%26+apps;Get+2+months+FREE+;%26+lightning-fast+service+%E2%9A%A1;Check+out+SupraXpression+for+;car-themed+fashion+finds+%F0%9F%9A%80%F0%9F%91%95;Subscribe+to+%22The+Empowerment+Engine%22+;on+YouTube+for+;+motivation+that+drives+success+%F0%9F%94%A5%F0%9F%92%AA;Join+my+digital+revolution+;%26+style+your+ride!+%F0%9F%8C%9F%F0%9F%94%A5)](https://git.io/typing-svg)
+
 🌟 Welcome, dear visitor! Prepare to be amazed as I introduce myself—Shivanshu Bhashkar, the 14-year-old wizard of web development and video editing. 🎩💻 With boundless creativity and a love for all things digital, I'm here to turn your dreams into reality.
 
 As a full-stack web developer and video editing maestro, I weave digital wonders that captivate and inspire. Whether it's crafting a sleek e-commerce website or adding that magical touch to your videos, I've got you covered. 🌟✨
